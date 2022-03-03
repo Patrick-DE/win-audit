@@ -1,0 +1,3 @@
+[submodule "scripts/peass"]
+	path = scripts/peass
+	url = https://github.com/carlospolop/PEASS-ng.git
